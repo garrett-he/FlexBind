@@ -1,0 +1,3 @@
+local _, FlexBind = ...
+
+FlexBind.schemes = {}

@@ -1,0 +1,20 @@
+2016-01-11 Garrett HE <garrett.he@hotmail.com>
+	Version 1.3.1
+	* Add more binding scheme examples
+
+2016-01-10 Garrett HE <garrett.he@hotmail.com>
+	Version 1.3.0
+	* Add console frame in game
+
+2016-01-08 Garrett HE <garrett.he@hotmail.com>
+	Version 1.2.0
+	* Add mechanisms to enable binding scheme on conditions
+
+2016-01-06 Garrett HE <garrett.he@hotmail.com>
+	Version 1.1.0
+	* Add mechanisms to register slash commands for FlexBind
+	* Add slash commands to control behaviors of binding schemes
+
+2016-01-04 Garrett HE <garrett.he@hotmail.com>
+	Version 1.0.0
+	* First release, implements loading/enabling binding schemes
